@@ -1,6 +1,6 @@
-# flutter_minesweeper
+# Minesweeper
 
-A new Flutter application.
+An addictive minesweeper game made using flutter material UI kit.
 
 ## Getting Started
 
